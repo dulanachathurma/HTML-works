@@ -1,12 +1,12 @@
 # Dulana Web Project
 
-මෙම repository එකේ **dulana.html** file එක තියෙනවා.  
+This repository contains the **dulana.html** file.  
 
 ## File
-- `dulana.html` : මගේ personal HTML file එක.
+- `dulana.html` : My personal HTML file.
 
 ## Usage
-මෙම HTML file එක browser එකෙන් open කරලා බලන්න පුළුවන්.
+You can open this HTML file in a browser to view it.
 
 ## Author
 **Dulana Chathurma**
