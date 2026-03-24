@@ -9,4 +9,4 @@ This repository contains the **dulana.html** file.
 You can open this HTML file in a browser to view it.
 
 ## Author
-**Dulana Chathurma**
+**Dulana Chathurma*
